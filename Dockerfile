@@ -13,4 +13,4 @@ RUN apt-get -y install \
 
 EXPOSE 9000
 
-CMD ["php5-fpm", "--nodaemonize", "-d", "listen=9000"]
+ENTRYPOINT ["php5-fpm", "--nodaemonize", "-d", "listen=9000"]
