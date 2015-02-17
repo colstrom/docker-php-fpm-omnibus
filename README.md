@@ -1,7 +1,7 @@
-php-fpm-omnibus
-===============
+php-fpm-omnibus:hardened
+========================
 
-PHP 5.6 with a set of commonly used modules.
+A hardened PHP 5.6 with a set of commonly used modules.
 
 Inherited from php-fpm
 ----------------------
@@ -9,6 +9,7 @@ Inherited from php-fpm
 * PEAR
 * libsodium
 * zeromq
+* suhosin
 
 Included Extras
 ---------------

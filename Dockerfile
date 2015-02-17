@@ -1,4 +1,4 @@
-FROM colstrom/php-fpm
+FROM colstrom/php-fpm:hardened
 
 MAINTAINER chris@olstrom.com
 
