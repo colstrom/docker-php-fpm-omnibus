@@ -6,13 +6,13 @@ PHP 5.6 with a set of commonly used modules.
 Inherited from php-fpm
 ----------------------
 * Composer
-* PHPUnit
 * PEAR
 * libsodium
 * zeromq
 
-Included Modules
-----------------
+Included Extras
+---------------
+* PHPUnit
 * curl
 * gd
 * mcrypt
