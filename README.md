@@ -1,7 +1,7 @@
-php-fpm-omnibus:hardened
-========================
+php-fpm-omnibus
+===============
 
-A hardened PHP 5.6 with a set of commonly used modules.
+PHP 5.6 with a set of commonly used modules.
 
 Available Tags
 --------------
@@ -14,7 +14,6 @@ Inherited from php-fpm
 * PEAR
 * libsodium
 * zeromq
-* suhosin
 
 * suhosin (if using the ```hardened``` tag)
 
